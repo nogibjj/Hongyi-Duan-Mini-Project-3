@@ -84,5 +84,3 @@ The tests will check the correctness of the statistical functions using assertio
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-![Figure_Progress](https://github.com/user-attachments/assets/21727b8c-47d0-46b0-afd9-462296423cf9)
